@@ -2,7 +2,7 @@
 {
     public class Aluno
     {
-        public int id { get; set: }
+        public int id { get; set; }
         public string? Nome { get; set; }
         public string? RMA { get; set; }
         public string? Mae { get; set; }
